@@ -1,0 +1,39 @@
+.menu {
+    align-content: center;
+    border: 1;
+    background-color: #009ada;
+    height: 1.2cm;
+    overflow: auto;
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly;
+    vertical-align: auto;
+    text-decoration-color: none;
+}
+
+#logo {
+    height: 120px;
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menubutton {
+    font-size: 1cm;
+    text-decoration: none;
+    color: white;
+}
+
+.menubutton:hover {
+    color: white;
+    background-color: #003951;
+}
+
+#contact {
+    color: white;
+    background-color: #009ada;
+    font-size: 1cm;
+    text-decoration: none;
+    text-decoration-color: none;
+}
